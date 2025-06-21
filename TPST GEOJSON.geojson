@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TPST GEOJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama TPST": "TPST Modalan", "Kecamatan": "Banguntapan", "Desa/Kelurahan": "Modalan", "Easting (m)": 435200, "Northing (m)": 9120500, "Latitude (S)": -7.82, "Longitude (E)": 110.434 }, "geometry": { "type": "Point", "coordinates": [ 435200.0, 9120500.0 ] } },
+{ "type": "Feature", "properties": { "Nama TPST": "ITF Bawuran", "Kecamatan": "Pleret", "Desa/Kelurahan": "Bawuran", "Easting (m)": 433500, "Northing (m)": 9119200, "Latitude (S)": -7.9106, "Longitude (E)": 110.4282 }, "geometry": { "type": "Point", "coordinates": [ 433500.0, 9119200.0 ] } },
+{ "type": "Feature", "properties": { "Nama TPST": "TPST Dingkikan", "Kecamatan": "Sedayu", "Desa/Kelurahan": "Argodadi", "Easting (m)": 424000, "Northing (m)": 9116000, "Latitude (S)": -7.836, "Longitude (E)": 110.2675 }, "geometry": { "type": "Point", "coordinates": [ 424000.0, 9116000.0 ] } },
+{ "type": "Feature", "properties": { "Nama TPST": "ITF Pasar Niten", "Kecamatan": "Bantul", "Desa/Kelurahan": "Niten", "Easting (m)": 429000, "Northing (m)": 9117000, "Latitude (S)": -7.885, "Longitude (E)": 110.339 }, "geometry": { "type": "Point", "coordinates": [ 429000.0, 9117000.0 ] } }
+]
+}
